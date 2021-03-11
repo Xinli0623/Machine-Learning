@@ -12,7 +12,7 @@ This course provides a broad introduction to machine learning, datamining, and s
 
 * Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). 
 
-You can learn it on [Coursera](https://www.coursera.org/learn/machine-learning) and earn a [Certificate](Course Certificate.png) upon completion. Or you can watch lecture videos on [bilibili](https://www.bilibili.com/video/BV164411b7dx?from=search&seid=2447822532562598581) and here are [Lecture Slides](Lecture Slides).
+You can learn it on [Coursera](https://www.coursera.org/learn/machine-learning) and earn a ![Certificate](Course Certificate.png) upon completion. Or you can watch lecture videos on [bilibili](https://www.bilibili.com/video/BV164411b7dx?from=search&seid=2447822532562598581) and here are [Lecture Slides](Lecture Slides).
 
 This course includes [Programming Exercises](Programming Exercises) designed to help you understand how to implement the learning algorithms in practice. To complete the programming assignments, you will need to use [Octave](https://www.gnu.org/software/octave/) or MATLAB. I used Octave. The Octave syntax is largely compatible with MATLAB and it's free.
 
